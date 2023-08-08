@@ -50,3 +50,21 @@ if (isLoggedIn && debitCard) {
     console.log("allow to a buy a courses");
     
 }
+
+//  nullish coalescing operator (??)
+let val1;
+val1 = 5 ?? 10
+
+let val2;
+val2 = null ?? 7
+
+
+
+
+
+
+
+
+
+console.log(val1);
+console.log(val2);
